@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Many_Data_Rate</string>
+    <string name="transfer">发送：</string>
+    <string name="receive">接收：</string>
+    <string name="transfer_try">蛮发个信息吧</string>
+    <string name="transfer_mars">To: 火星</string>
+    <string name="transfer_moon">To: 月球</string>
+    <string name="transfer_earth">To: 地球</string>
+</resources>

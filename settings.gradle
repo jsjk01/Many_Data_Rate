@@ -1,0 +1,2 @@
+rootProject.name='Many_Data_Rate'
+include ':app'
